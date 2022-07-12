@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "gscreend"]
-	path = gscreend
-	url = https://github.com/imkeller/gscreend
-	shallow = true
-	registered = true
