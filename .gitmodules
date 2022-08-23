@@ -8,3 +8,8 @@
 	url = https://github.com/imkeller/gscreend
 	shallow = true
 	registered = true
+[submodule "immunotation"]
+	path = immunotation
+	url = https://github.com/imkeller/immunotation
+	shallow = true
+	registered = true
